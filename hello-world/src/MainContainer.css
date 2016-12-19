@@ -1,0 +1,43 @@
+.main-content{
+  width: 100%;
+  padding-top:100px;
+}
+
+.mid-content{
+  display: block;
+  margin: 0 auto;
+}
+
+.midtxt-content{
+  text-align: center;
+}
+
+.content{
+  height:100px;
+}
+
+div h3{
+  margin:0px;
+  font-size:50px;
+  padding-top:15px;
+}
+
+.go-btn{
+  border-radius: 10px;
+  width: 100px;
+  height:30px;
+  background-color:#FCC333;
+  border:0px
+}
+
+.go-btn-font{
+  font-size:20px;
+}
+
+.red-highlight{
+  color:red;
+}
+
+.gold-hightlight{
+  color: #FCC333;
+}

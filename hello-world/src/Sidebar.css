@@ -1,0 +1,28 @@
+div form{
+    width: 100%
+}
+
+div table{
+    width:100%;
+    margin-top: 5%;
+}
+
+div table thead{
+    width:100%;
+    text-align: left;
+}
+
+div table tbody{
+    width:100%;
+}
+td {
+    text-align: left;
+}
+
+.add-btn{
+    margin-left:5px;
+}
+
+form input[type=text]{
+    width: 65%
+}
